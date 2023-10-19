@@ -45,10 +45,3 @@ function isPrime(x) {
     resultElement.textContent = `${number} - простое число1113.`;
     console.log(`${resultElement} - составное число.`);
   }
-
-
-
-
-
-
-
